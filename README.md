@@ -75,12 +75,3 @@
 
 ---
 
-<div align="center">
-  
-### 🌟 "Code is poetry written in logic" 🌟
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
-
-**⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with 💜**
-
-</div>
