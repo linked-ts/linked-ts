@@ -1,4 +1,4 @@
-
+# 🌐 Welcome to the Digital Realm
 
 <div align="center">
 
@@ -8,20 +8,64 @@
 
 ## 🚀 About Me
 
-**👨‍💻 Full Stack Developer** passionate about creating modern web applications and blockchain solutions.
+<div align="center">
 
-- 🔭 Currently working on **Web3 projects** and **DeFi platforms**
-- 🌱 Learning **Advanced TypeScript** and **Smart Contract Development**
-- 💡 Interested in **UI/UX Design** and **Cyberpunk Aesthetics**
-- 🎯 Goal: Building the future of decentralized web
-- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed 😎
+### � **Full Stack Developer & Blockchain Enthusiast** 💫
 
-**🛠️ Technologies I work with:**
-- **Languages:** TypeScript, JavaScript, Python, Solidity
-- **Frontend:** Next.js, React, TailwindCSS, Framer Motion
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL
-- **Blockchain:** Ethereum, Web3.js, Ethers.js, Wagmi
-- **Tools:** Docker, Git, Figma, VS Code
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 **Current Focus**
+```yaml
+🔭 Working on: Web3 & DeFi Projects
+🌱 Learning: Advanced TypeScript
+💡 Interested: UI/UX & Cyberpunk Design
+🎯 Goal: Building Decentralized Future
+⚡ Fun Fact: console.log() is my best friend
+```
+
+</td>
+<td width="50%">
+
+### 🛠️ **Tech Arsenal**
+```yaml
+Languages:
+  - TypeScript ⚡
+  - JavaScript 🚀
+  - Python 🐍
+  - Solidity 💎
+
+Frontend:
+  - Next.js ⚛️
+  - React 🔥
+  - TailwindCSS 🎨
+  - Framer Motion ✨
+
+Backend:
+  - Node.js 🟢
+  - Express 🚄
+  - MongoDB 🍃
+  - PostgreSQL 🐘
+
+Blockchain:
+  - Ethereum ⟠
+  - Web3.js 🌐
+  - Ethers.js 📡
+  - Wagmi 🎭
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌟 **"Turning coffee into code, one commit at a time"** ☕→💻
+
+</div>
 
 ## 💻 Tech Stack
 
@@ -52,14 +96,68 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=00f7ff&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&stroke=30363d&ring=8b5cf6&fire=00f7ff&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linked-ts-portfolio.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onicyn)
+### 🌐 **Ready to collaborate? Let's build something amazing together!** 🚀
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎨 **Portfolio**
+**Explore my digital realm**
+<br><br>
+[![Portfolio](https://img.shields.io/badge/🌟_Visit_Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e)](https://linked-ts-portfolio.vercel.app)
+<br>
+`✨ Live projects & case studies`
+
+</td>
+<td align="center" width="50%">
+
+### 💬 **Telegram**
+**Let's chat about projects**
+<br><br>
+[![Telegram](https://img.shields.io/badge/💌_Send_Message-00F7FF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e)](https://t.me/onicyn)
+<br>
+`⚡ Quick response guaranteed`
+
+</td>
+</tr>
+</table>
+
+### 💡 **Open for:**
+```yaml
+🚀 Freelance Projects
+🤝 Collaboration Opportunities
+💼 Full-time Positions
+🎓 Mentoring & Knowledge Sharing
+☕ Coffee Chats about Tech
+```
 
 </div>
 
 ---
 
+<div align="center">
+  
+### 🌟 "Code is poetry written in logic" 🌟
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
+
+**⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with 💜**
+
+</div>
