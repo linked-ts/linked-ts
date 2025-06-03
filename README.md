@@ -10,60 +10,23 @@
 
 <div align="center">
 
-### � **Full Stack Developer & Blockchain Enthusiast** 💫
+**🌟 Full Stack Developer & Blockchain Enthusiast 🌟**
 
-</div>
+<br>
 
-<table align="center">
-<tr>
-<td width="50%">
+🔭 **Currently building** Web3 & DeFi platforms  
+🌱 **Learning** Advanced TypeScript & Smart Contracts  
+💡 **Passionate about** UI/UX Design & Cyberpunk Aesthetics  
+🎯 **Mission** Building the decentralized future  
 
-### 🎯 **Current Focus**
-```yaml
-🔭 Working on: Web3 & DeFi Projects
-🌱 Learning: Advanced TypeScript
-💡 Interested: UI/UX & Cyberpunk Design
-🎯 Goal: Building Decentralized Future
-⚡ Fun Fact: console.log() is my best friend
-```
+<br>
 
-</td>
-<td width="50%">
+### ⚡ **Tech Stack Overview**
 
-### 🛠️ **Tech Arsenal**
-```yaml
-Languages:
-  - TypeScript ⚡
-  - JavaScript 🚀
-  - Python 🐍
-  - Solidity 💎
-
-Frontend:
-  - Next.js ⚛️
-  - React 🔥
-  - TailwindCSS 🎨
-  - Framer Motion ✨
-
-Backend:
-  - Node.js 🟢
-  - Express 🚄
-  - MongoDB 🍃
-  - PostgreSQL 🐘
-
-Blockchain:
-  - Ethereum ⟠
-  - Web3.js 🌐
-  - Ethers.js 📡
-  - Wagmi 🎭
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🌟 **"Turning coffee into code, one commit at a time"** ☕→💻
+**Frontend:** Next.js • React • TypeScript • TailwindCSS • Framer Motion  
+**Backend:** Node.js • Express • NestJS • MongoDB • PostgreSQL  
+**Blockchain:** Ethereum • Ethers.js • Wagmi • Solidity  
+**Tools:** Git • Docker • Figma • VS Code  
 
 </div>
 
@@ -81,12 +44,14 @@ Blockchain:
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Tools
@@ -95,17 +60,6 @@ Blockchain:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=00f7ff&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&stroke=30363d&ring=8b5cf6&fire=00f7ff&currStreakLabel=8b5cf6" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect
@@ -139,22 +93,11 @@ Blockchain:
 </tr>
 </table>
 
-### 💡 **Open for:**
-```yaml
-🚀 Freelance Projects
-🤝 Collaboration Opportunities
-💼 Full-time Positions
-🎓 Mentoring & Knowledge Sharing
-☕ Coffee Chats about Tech
-```
-
 </div>
 
 ---
 
 <div align="center">
-  
-### 🌟 "Code is poetry written in logic" 🌟
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
 
