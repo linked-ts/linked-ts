@@ -1,34 +1,6 @@
-# 🌐 Welcome to the Digital Realm
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=8B5CF6&background=0F101400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Blockchain+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
-
-</div>
-
-## 🚀 About Me
-
-<div align="center">
-
-**🌟 Full Stack Developer & Blockchain Enthusiast 🌟**
-
-<br>
-
-🔭 **Currently building** Web3 & DeFi platforms  
-🌱 **Learning** Advanced TypeScript & Smart Contracts  
-💡 **Passionate about** UI/UX Design & Cyberpunk Aesthetics  
-🎯 **Mission** Building the decentralized future  
-
-<br>
-
-### ⚡ **Tech Stack Overview**
-
-**Frontend:** Next.js • React • TypeScript • TailwindCSS • Framer Motion  
-**Backend:** Node.js • Express • NestJS • MongoDB • PostgreSQL  
-**Blockchain:** Ethereum • Ethers.js • Wagmi • Solidity  
-**Tools:** Git • Docker • Figma • VS Code  
-
-</div>
 
 ## 💻 Tech Stack
 
@@ -96,11 +68,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
-
-**⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with 💜**
-
-</div>
