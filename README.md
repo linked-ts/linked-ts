@@ -52,18 +52,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=00f7ff&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&stroke=30363d&ring=8b5cf6&fire=00f7ff&currStreakLabel=8b5cf6" alt="GitHub Streak" />
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
