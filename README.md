@@ -1,17 +1,6 @@
 # 🌐 Welcome to the Digital Realm
 
 <div align="center">
-  
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  ██╗     ██╗███╗   ██╗██╗  ██╗███████╗██████╗       ████████╗███████╗  ║
-║  ██║     ██║████╗  ██║██║ ██╔╝██╔════╝██╔══██╗      ╚══██╔══╝██╔════╝  ║
-║  ██║     ██║██╔██╗ ██║█████╔╝ █████╗  ██║  ██║         ██║   ███████╗  ║
-║  ██║     ██║██║╚██╗██║██╔═██╗ ██╔══╝  ██║  ██║         ██║   ╚════██║  ║
-║  ███████╗██║██║ ╚████║██║  ██╗███████╗██████╔╝         ██║   ███████║  ║
-║  ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═════╝          ╚═╝   ╚══════╝  ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=8B5CF6&background=0F101400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Blockchain+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
 
@@ -19,20 +8,20 @@
 
 ## 🚀 About Me
 
-```typescript
-const developer = {
-  name: "linked-ts",
-  role: "Full Stack Developer",
-  location: "Digital Realm 🌐",
-  languages: ["TypeScript", "JavaScript", "Python", "Solidity"],
-  frameworks: ["Next.js", "React", "Node.js", "Express", "NestJS"],
-  databases: ["MongoDB", "PostgreSQL", "Redis"],
-  blockchain: ["Ethereum", "Ethers.js", "Wagmi"],
-  tools: ["Git", "Figma", "VS Code"],
-  currentFocus: "Building the future of web3 🔮",
-  funFact: "I debug with console.log and I'm not ashamed 😎"
-};
-```
+**👨‍💻 Full Stack Developer** passionate about creating modern web applications and blockchain solutions.
+
+- 🔭 Currently working on **Web3 projects** and **DeFi platforms**
+- 🌱 Learning **Advanced TypeScript** and **Smart Contract Development**
+- 💡 Interested in **UI/UX Design** and **Cyberpunk Aesthetics**
+- 🎯 Goal: Building the future of decentralized web
+- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed 😎
+
+**🛠️ Technologies I work with:**
+- **Languages:** TypeScript, JavaScript, Python, Solidity
+- **Frontend:** Next.js, React, TailwindCSS, Framer Motion
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL
+- **Blockchain:** Ethereum, Web3.js, Ethers.js, Wagmi
+- **Tools:** Docker, Git, Figma, VS Code
 
 ## 💻 Tech Stack
 
@@ -56,7 +45,7 @@ const developer = {
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -64,7 +53,7 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=00f7ff&border_color=30363d"/>
@@ -75,157 +64,20 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&stroke=30363d&ring=8b5cf6&fire=00f7ff&currStreakLabel=8b5cf6" alt="GitHub Streak" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=linked-ts-portfolio&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=00f7ff&border_color=30363d)](https://github.com/YOUR_USERNAME/linked-ts-portfolio)
-
-</div>
-
-## 🌟 Current Projects
-
-```javascript
-const currentProjects = [
-  {
-    name: "🎨 Portfolio Website",
-    tech: ["Next.js", "TypeScript", "Framer Motion"],
-    status: "✅ Completed",
-    demo: "https://linked-ts-portfolio.vercel.app"
-  },
-  {
-    name: "💰 LazyFi DeFi Platform", 
-    tech: ["React", "Web3.js", "Solidity"],
-    status: "🚀 Live",
-    demo: "https://lazyfi.vercel.app"
-  },
-  {
-    name: "🖼️ NFT Marketplace",
-    tech: ["Next.js", "Ethers.js", "IPFS"],
-    status: "🔄 In Progress",
-    demo: "https://nft-nexus-steel.vercel.app"
-  }
-];
-```
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=8b5cf6&line=00f7ff&point=c9d1d9&area=true&hide_border=true" />
-</div>
-
-## 🎮 When I'm Not Coding
-
-```python
-hobbies = {
-    "🎵": "Creating electronic music",
-    "🎮": "Gaming (RPGs & Strategy)",
-    "📚": "Reading sci-fi novels", 
-    "🏃": "Running & fitness",
-    "☕": "Coffee brewing experiments",
-    "🌱": "Learning new technologies"
-}
-```
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linked-ts-portfolio.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d1117&border_color=30363d" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-## 🎯 Coding Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 💼 Professional Experience
-
-```yaml
-experience:
-  - role: "Senior Full Stack Developer"
-    company: "Tech Innovators Inc."
-    period: "2022 - Present"
-    technologies: ["React", "Node.js", "AWS", "Docker"]
-
-  - role: "Blockchain Developer"
-    company: "CryptoSolutions"
-    period: "2021 - 2022"
-    technologies: ["Solidity", "Web3.js", "Ethereum"]
-
-  - role: "Frontend Developer"
-    company: "StartupXYZ"
-    period: "2020 - 2021"
-    technologies: ["Vue.js", "TypeScript", "TailwindCSS"]
-```
-
-## � Design Philosophy
-
-<div align="center">
-
-| 🎯 **Focus** | 🚀 **Innovation** | 💡 **Creativity** | 🔧 **Quality** |
-|:---:|:---:|:---:|:---:|
-| User Experience | Latest Technologies | Unique Solutions | Clean Code |
-| Performance | Scalability | Accessibility | Best Practices |
-
-</div>
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [🚀 Building Modern Web Apps with Next.js 14](https://your-blog.com/nextjs-14)
-- [🔗 Understanding Blockchain Development](https://your-blog.com/blockchain-dev)
-- [🎨 Creating Stunning UI with Framer Motion](https://your-blog.com/framer-motion)
-- [⚡ Optimizing React Performance](https://your-blog.com/react-performance)
-<!-- BLOG-POST-LIST:END -->
-
-## 🌟 Fun Facts
-
-<div align="center">
-
-```javascript
-const funFacts = [
-  "🌙 I code better at night",
-  "☕ Coffee is my debugging fuel",
-  "🎮 I've built 3 indie games",
-  "🚀 I dream in TypeScript",
-  "🎵 I compose music while coding",
-  "📱 I've published 2 mobile apps"
-];
-
-console.log(funFacts[Math.floor(Math.random() * funFacts.length)]);
-```
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/onicyn)
 
 </div>
 
 ---
 
 <div align="center">
-
-### �🌟 "Code is poetry written in logic" 🌟
+  
+### 🌟 "Code is poetry written in logic" 🌟
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=Profile+Views" />
 
