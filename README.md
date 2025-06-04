@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=8B5CF6&background=0F101400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer;Blockchain+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
 
-## 💻 >_ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
